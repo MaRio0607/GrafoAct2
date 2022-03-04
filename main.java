@@ -94,29 +94,29 @@ class Grafo{
     }
  
     public static void main(String args[]) {
-        // Grafo g1 = new Grafo(10);
-        // g1.Ari(0, 2);
-        // g1.Ari(2, 1);
-        // g1.Ari(1 ,5);
-        // g1.Ari(5 ,4);
-        // g1.Ari(4 ,3);
-        // g1.Ari(3 ,2);
-        // g1.Ari(2 ,9);
-        // g1.Ari(9 ,1);
-        // g1.Ari(1 ,8);
-        // g1.Ari(8 ,5);
-        // g1.Ari(5 ,6);
-        // g1.Ari(6 ,4);
-        // g1.Ari(4 ,7);
-        // g1.Ari(7 ,3);
-        // g1.Ari(3 ,0);
-        // g1.Ari(0 ,9);
-        // g1.Ari(9 ,8);
-        // g1.Ari(8 ,6);
-        // g1.Ari(6 ,7);
-        // g1.Ari(7 ,0);
+        Grafo g1 = new Grafo(10);
+        g1.Ari(0, 2);
+        g1.Ari(2, 1);
+        g1.Ari(1 ,5);
+        g1.Ari(5 ,4);
+        g1.Ari(4 ,3);
+        g1.Ari(3 ,2);
+        g1.Ari(2 ,9);
+        g1.Ari(9 ,1);
+        g1.Ari(1 ,8);
+        g1.Ari(8 ,5);
+        g1.Ari(5 ,6);
+        g1.Ari(6 ,4);
+        g1.Ari(4 ,7);
+        g1.Ari(7 ,3);
+        g1.Ari(3 ,0);
+        g1.Ari(0 ,9);
+        g1.Ari(9 ,8);
+        g1.Ari(8 ,6);
+        g1.Ari(6 ,7);
+        g1.Ari(7 ,0);
 
-        // g1.Prueba();
+        g1.Prueba();
 
         // Grafo g2 = new Grafo(10);
         // g2.Ari(0, 2);
@@ -198,19 +198,19 @@ class Grafo{
 
         // g5.Prueba();
 
-        Grafo g6 = new Grafo(10);
-        g6.Ari(0, 9);
-        g6.Ari(9 ,8);
-        g6.Ari(8 ,5);
-        g6.Ari(5 ,4);
-        g6.Ari(4 ,3);
-        g6.Ari(3 ,7);
-        g6.Ari(7 ,6);
-        g6.Ari(6 ,5);
-        g6.Ari(6 ,8);
-        g6.Ari(7 ,0);
+        // Grafo g6 = new Grafo(10);
+        // g6.Ari(0, 9);
+        // g6.Ari(9 ,8);
+        // g6.Ari(8 ,5);
+        // g6.Ari(5 ,4);
+        // g6.Ari(4 ,3);
+        // g6.Ari(3 ,7);
+        // g6.Ari(7 ,6);
+        // g6.Ari(6 ,5);
+        // g6.Ari(6 ,8);
+        // g6.Ari(7 ,0);
 
-        g6.Prueba();
+        // g6.Prueba();
 
 
         // Grafo g2 = new Grafo(5);
